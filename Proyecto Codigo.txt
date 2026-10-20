@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 print("Hello World");
 print("How are you");
 voy a poner lo que sea
+
+=======
+print("Hello World");
+>>>>>>> parent of 9944805 (como estas)
